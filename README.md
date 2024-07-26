@@ -2,6 +2,7 @@
 
 ## Project Overview
 This project demonstrates an ETL (Extract, Transform, Load) process using the Kaggle API, Python for data cleaning and processing, and Microsoft SQL Server for data analysis.
+
 ![image](https://github.com/user-attachments/assets/d2aa01b9-b9b4-4f50-aea3-8398d7db6aa3)
 
 1. **Download Dataset**:
